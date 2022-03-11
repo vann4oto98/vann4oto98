@@ -1,4 +1,4 @@
-- 🌱 Currently learning MUI and React Native
+- 🌱 Currently playing around with NEXTJS, MUI and React Native
 - Most proficient in React, Typescript & Javascript (working mostly in private repos)
 
     [![Vann4oto98's GitHub stats](https://github-readme-stats.vercel.app/api?username=vann4oto98&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats).
